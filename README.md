@@ -4,7 +4,7 @@
 
 `docker ps` shall give you no errors but rather a neat table
 
-### Pay a visit to ankle Oracle
+### Pay a visit to uncle Oracle
 
 [Download](http://www.oracle.com/technology/software/tech/java/sqlj_jdbc/index.html) and install oracle jdbc driver manually: 
 
