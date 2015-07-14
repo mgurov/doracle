@@ -6,7 +6,7 @@ version = '0.1.0'
 
 description = """"""
 
-// buildDir = "/target"
+buildDir = "/target"
 
 repositories {
     mavenLocal()
