@@ -3,8 +3,6 @@ package hello;
 import oracle.jdbc.pool.OracleDataSource;
 import org.springframework.jdbc.core.JdbcTemplate;
 
-import java.sql.Connection;
-import java.sql.DatabaseMetaData;
 import java.sql.SQLException;
 
 public class Greeter {
